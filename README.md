@@ -33,4 +33,4 @@ This project analyzes e-commerce sales data to understand revenue trends, region
 The analysis highlights that regional performance and product categories significantly impact overall sales and profit. Businesses can focus on high-performing regions and products to maximize revenue.
 
 ## 📄 Resume
-[Download Resume]()# Ecommerce-sales-analysis
+[Download Resume](https://github.com/Sowjanya-jakkula/resume/blob/main/Resume.pdf)# Ecommerce-sales-analysis
