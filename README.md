@@ -27,7 +27,7 @@ This project analyzes e-commerce sales data to understand revenue trends, region
 - dashboard.pbix → Power BI dashboard  
 
 ## 📸 Dashboard Preview
-![Dashboard](Sales Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 🎯 Conclusion
 The analysis highlights that regional performance and product categories significantly impact overall sales and profit. Businesses can focus on high-performing regions and products to maximize revenue.
